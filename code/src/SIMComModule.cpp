@@ -15,7 +15,7 @@ const char simPIN[]   = "";
 
 // TinyGSM Client for Internet connection
 unsigned long Channel_Number = 1;
-const char * APIKey = "OHCOIIA2D2ETP5DV";  //copy and past your api key of thingspeak
+const char * APIKey = "";  //copy and past your api key of thingspeak
 float temperatureC;
 uint32_t tm = 0;
 HardwareSerial SerialAT(1);
